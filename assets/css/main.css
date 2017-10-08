@@ -2369,7 +2369,7 @@
 				border-radius: 0;
 				display: block;
 				position: relative;
-				width: 100%;
+				width: 99%;
 			}
 
 			.image.phone .inner, .image.phone:before, .image.phone:after {
