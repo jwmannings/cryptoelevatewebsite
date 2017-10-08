@@ -2376,7 +2376,7 @@
 				display: block;
 				border: solid 2px rgba(255, 255, 255, 0.25);
 			}
-
+/*
 			.image.phone .inner {
 				position: relative;
 			}
@@ -2420,7 +2420,7 @@
 				border-radius: 0 0 1em 1em;
 				border-top: 0;
 			}
-
+*/
 	.image {
 		box-shadow: 0 0 0 4px #ffffff, 0 0 0 5px #e6e6e6;
 	}
