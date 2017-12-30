@@ -2304,7 +2304,13 @@
 	}
 
 /* Image */
+.image2 {
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+}
 
+}
 	.image {
 		border-radius: 6px;
 		border: 0;
@@ -2312,6 +2318,7 @@
 		position: relative;
 		overflow: hidden;
 	}
+
 
 		.image img {
 			border-radius: 6px;
@@ -2733,6 +2740,7 @@
 	header.major {
 		margin: 0 0 2.5em 0;
 		text-align: center;
+		font-family: 'Lato', sans-serif;
 	}
 
 		header.major:after {
@@ -3627,7 +3635,7 @@
 /* Header */
 
 	#header {
-		background-color: #00ccff;
+		background-color: #808080;
 		color: #f7f2f2;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
@@ -3683,7 +3691,7 @@
 			#header .button.special {
 				box-shadow: none;
 				background-color: #ffffff;
-				color: #4696e5 !important;
+				color: #00ccff !important;
 			}
 
 		#header label {
