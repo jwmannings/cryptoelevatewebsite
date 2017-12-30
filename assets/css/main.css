@@ -2279,6 +2279,15 @@
 	}
 
 /* Icon */
+.listicon:before {
+    content: "";
+    display: block;
+    background: url("images/listicon.png") no-repeat;
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin: 0 6px 0 0;
+}
 
 	.icon {
 		text-decoration: none;
